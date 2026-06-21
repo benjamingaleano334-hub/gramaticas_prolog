@@ -72,6 +72,3 @@ Tree = o(sn(det(los), n(empleados)),
 
 
 
----
-
-👉 Con este README tu repo queda claro, profesional y fácil de usar.
